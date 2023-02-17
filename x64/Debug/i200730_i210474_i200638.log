@@ -1,0 +1,15 @@
+﻿  i200730_i210474_i200638.cpp
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(618,18): warning C4101: 'temp_root7': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(617,18): warning C4101: 'temp_root6': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(620,18): warning C4101: 'temp_root9': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(616,18): warning C4101: 'temp_root5': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(615,18): warning C4101: 'temp_root3': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(621,18): warning C4101: 'temp_root10': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(619,18): warning C4101: 'temp_root8': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\AVL.h(880,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(46,60): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(46): message : while compiling class template member function 'node<data2>::node(int,bool)'
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(179): message : see reference to function template instantiation 'node<data2>::node(int,bool)' being compiled
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(208): message : see reference to class template instantiation 'node<data2>' being compiled
+C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\i200730_i210474_i200638\Btrees.h(46,93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  i200730_i210474_i200638.vcxproj -> C:\Users\bilal\Documents\FAST\SEMESTER 4\Data structures\Project\i200730_i210474_i200638\x64\Debug\i200730_i210474_i200638.exe
